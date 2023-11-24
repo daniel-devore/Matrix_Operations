@@ -8,10 +8,17 @@ The operations are further divided in each folder containing the following
 operations:
 
   Matrix addition
+  
   Matrix multiplication (further divided):
+  
     matrix multiplication
+    
     dot product
+    
     scalar product
+    
   Matrix trnaspose
+  
   Matrix determinant
+  
   Matrix inverse
