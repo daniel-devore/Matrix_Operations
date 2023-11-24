@@ -17,7 +17,7 @@ operations:
     
     scalar product
     
-  Matrix trnaspose
+  Matrix transpose
   
   Matrix determinant
   
